@@ -1,9 +1,10 @@
 <script>
-   import './global.css'
+   import './global.css';
+   import Todos from './lib/Todos.svelte';
 </script>
 
 <main>
- <h1>🚀 Hello World! 🚀</h1>
+ <Todos />
 </main>
 
 <style>
