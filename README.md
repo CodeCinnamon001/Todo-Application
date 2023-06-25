@@ -27,7 +27,7 @@ git clone https://github.com/CodeCinnamon001/Todo-Application.git
 2. Change into the project directory:
 
 ```shell
-cd todo-app
+cd Todo-Application
 ```
 
 3. Install the dependencies:
