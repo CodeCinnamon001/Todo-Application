@@ -2,7 +2,7 @@
 
 This is a basic Todo app built with Svelte, a reactive JavaScript framework for building user interfaces. The app provides most of the fundamental functionality required for managing and organizing tasks.
 
-##Demo
+## Demo
 Live Application => [Todo-Application](https://todo-application.codecinnamon001.repl.co)
 
 ## Features
